@@ -1,0 +1,15 @@
+[[source]]
+name = "pypi"
+url = "https://pypi.org/simple"
+verify_ssl = true
+
+[dev-packages]
+pytest = "*"
+pytest-cov = "*"
+
+[packages]
+{{ cookiecutter.package_name }} = {editable = true,path = "."}
+pset-utils = {editable = true,git = "https://github.com/csci-e-29/2109sp-pset-utils-mjcarleb"}
+
+[requires]
+python_version = "3.7"
