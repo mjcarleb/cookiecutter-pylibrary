@@ -1,8 +1,8 @@
 ======================
-cookiecutter-pylibrary
+cookiecutter-csci-pset
 ======================
 
-Cookiecutter_ template for a Python python library. |travis| |appveyor| |requiresio|
+Cookiecutter_ template for a CSCI E-29 problem set application |travis| |appveyor| |requiresio|
 
 .. |travis| image:: http://img.shields.io/travis/ionelmc/cookiecutter-pylibrary/master.svg?style=flat&label=Travis
     :alt: Travis-CI Build Status
